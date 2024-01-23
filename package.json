@@ -1,0 +1,14 @@
+{
+  "name": "farex-core-api",
+  "version": "1.0.0",
+  "description": "core api for the farex app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "motunrayo koyejo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
